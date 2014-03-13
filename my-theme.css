@@ -1,0 +1,9 @@
+.my-theme.remark-slide-content p {
+  color: red;
+}
+.my-theme p {
+  color: lime;
+}
+.remark-slide-content.my-theme h1 {
+  color: orange;  
+}
