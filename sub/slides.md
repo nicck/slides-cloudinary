@@ -1,4 +1,4 @@
-theme: my-theme.css
+theme: inverse-custom.css
 name: inverse
 layout: true
 class: inverse
