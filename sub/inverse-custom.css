@@ -54,7 +54,6 @@ code {
   text-shadow: 0 0 20px #333;
 }
 .inverse h1, .inverse h2 {
-  margin-top: 0.2em;
   color: #f3f3f3;
   line-height: 0.8em;
 }
@@ -112,4 +111,8 @@ code {
 
 .remark-slide .remark-slide-content.inverse {
   padding: 1em;
+}
+.inverse h1 {
+  margin-top: 0;
+}
 }
