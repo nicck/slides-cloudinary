@@ -1,4 +1,4 @@
-theme: slides.css
+theme: my-theme.css
 name: inverse
 layout: true
 class: inversecustom
