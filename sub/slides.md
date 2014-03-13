@@ -1,7 +1,7 @@
 theme: my-theme.css
 name: inverse
 layout: true
-class: inversecustom
+class: my-theme
 title: Try remarks
 
 ---
